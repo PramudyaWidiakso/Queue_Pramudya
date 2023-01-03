@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1670157401 source:d:\kuliah\semester 3\praktikum\tp\tp10\main.cpp\main.cpp
+	<iostream>
+	"queue.h"
+
+1670157378 source:d:\kuliah\semester 3\praktikum\tp\tp10\main.cpp\queue.cpp
+	"queue.h"
+
+1670157269 d:\kuliah\semester 3\praktikum\tp\tp10\main.cpp\queue.h
+	<iostream>
+
